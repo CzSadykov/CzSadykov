@@ -3,7 +3,7 @@
 I'm a ML engineer and this is my semi-empty Github page modestly proving that my brain and hands can potentially be of some use!
 Hopefully it'll be updated with some cool and open-to-share projects pretty soon! But currently the stuff here is not much:
 
-### 📝 My projects 
+### 📝 Some projects 
 - [Data Science Projects from Yandex.Practicum Course](https://github.com/CzSadykov/DataScience_research_projects)
 - [Credit Scoring Streamlit App](https://github.com/CzSadykov/credit_scoring) 
 - [Pre-GPT-4 photo analyzing FastAPI app from one of my jobs](https://github.com/CzSadykov/pre-gpt4_photo_analyzer)
