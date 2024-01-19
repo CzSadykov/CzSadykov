@@ -2,12 +2,12 @@
 
 I'm a ML engineer and this is my semi-empty Github page modestly proving that my brain and hands can potentially be of some use!
 Hopefully it'll be updated with some cool and open-to-share projects pretty soon! But currently the stuff here is not much:
-
+___
 ### 📝 Some projects 
 - [Data Science Projects from Yandex.Practicum Course](https://github.com/CzSadykov/DataScience_research_projects)
 - [Credit Scoring Streamlit App](https://github.com/CzSadykov/credit_scoring) 
 - [Pre-GPT-4 photo analyzing FastAPI app from one of my jobs](https://github.com/CzSadykov/pre-gpt4_photo_analyzer)
-
+___
 ### 🧰 My stack
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
@@ -22,7 +22,6 @@ Hopefully it'll be updated with some cool and open-to-share projects pretty soon
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg"/>
 
 ---
-
 ### 🚀 You can also find me here
 
 <div id="badges">
