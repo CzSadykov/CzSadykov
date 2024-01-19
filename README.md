@@ -7,7 +7,6 @@ Hopefully it'll be updated with some cool and open-to-share projects pretty soon
 
 ### 📝 Some recent projects 
 - [Data Science Projects from Yandex.Practicum Course](https://github.com/CzSadykov/DataScience_research_projects)
-- [Credit Scoring Streamlit App](https://github.com/CzSadykov/credit_scoring) 
 - [Pre-GPT-4 photo analyzing FastAPI app from one of my jobs](https://github.com/CzSadykov/pre-gpt4_photo_analyzer)
   
 -----
