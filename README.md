@@ -6,7 +6,7 @@ Hopefully it'll be updated with some cool and open-to-share projects pretty soon
 -----
 
 ### 📝 Some recent projects 
-- [RecSys Platform for generating a "cold start" and iALS-based recommendations](https://github.com/CzSadykov/recsys_streaming_platform)
+- [Simple RecSys Platform for generating a "cold start" and iALS-based recommendations](https://github.com/CzSadykov/recsys_streaming_platform)
 - [Beginner-friendly implementation of various classic ML algorithms from scratch](https://github.com/CzSadykov/ML-Algorithms-from-Scratch)
 - [ML-powered web service for a credit scoring](https://github.com/CzSadykov/credit_scoring)
 - [Data Science Projects from Yandex.Practicum Course](https://github.com/CzSadykov/DataScience_research_projects)
