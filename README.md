@@ -1,7 +1,6 @@
 ### Hi, I'm Chingiz 🤗
 
-I'm a ML engineer and this is my semi-empty Github page modestly proving that my brain and hands can potentially be of some use!
-Hopefully it'll be updated with some cool and open-to-share projects pretty soon! 
+I love experimenting with ML, sharing small but meaningful projects, and learning new things along the way. My GitHub is a place where you’ll find my journey through various ML concepts, algorithms, and experiments. No heavy stuff yet, just a simple code and continuous growth. 🚀 Feel free to explore, ask questions, or just say hi!
 
 -----
 
