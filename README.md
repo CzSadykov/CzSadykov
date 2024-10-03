@@ -5,7 +5,7 @@ I love experimenting with ML, sharing small but meaningful projects, and learnin
 -----
 
 ### 📝 Some recent projects 
-- [RecSys Platform for generating a "cold start" and iALS-based recommendations](https://github.com/CzSadykov/recsys_streaming_platform)
+- [RecSys platform for generating a "cold start" and iALS-based recommendations](https://github.com/CzSadykov/recsys_streaming_platform)
 - [RecSys microservice for collaborative filtering: creating embeddings and evaluating diversity of recommendations](https://github.com/CzSadykov/recsys_collaborative_filtering)
 - [Multi-armed bandit for a CPA platform](https://github.com/CzSadykov/RecSys_multiarmed_bandit)
 - [Beginner-friendly implementation of various classic ML algorithms from scratch](https://github.com/CzSadykov/ML-Algorithms-from-Scratch)
