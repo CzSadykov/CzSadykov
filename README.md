@@ -9,8 +9,6 @@ I love experimenting with ML, sharing small but meaningful projects, and learnin
 - [RecSys microservice for collaborative filtering: creating embeddings and evaluating diversity of recommendations](https://github.com/CzSadykov/recsys_collaborative_filtering)
 - [Multi-armed bandit for a CPA platform](https://github.com/CzSadykov/RecSys_multiarmed_bandit)
 - [Beginner-friendly implementation of various classic ML algorithms from scratch](https://github.com/CzSadykov/ML-Algorithms-from-Scratch)
-- [ML-powered web service for a credit scoring](https://github.com/CzSadykov/credit_scoring)
-- [Data Science Projects from Yandex.Practicum Course](https://github.com/CzSadykov/DataScience_research_projects)
 
 -----
 
